@@ -1,2 +1,5 @@
 *.dat
 *.swp
+*.plt
+*.png
+*.bash
